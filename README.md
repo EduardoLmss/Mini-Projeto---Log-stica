@@ -1,5 +1,5 @@
 
-# 📊 Projeto Power BI – Análise de Entregas
+# 📊 Projeto Power BI – Análise de Dados - Ramo de Logística
 
 ![Dashboard Power BI](./imagens/dashboard.png)
 
